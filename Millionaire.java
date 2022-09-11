@@ -186,7 +186,7 @@ public class Millionaire // Millionaire class
 
 	c.setFont (options);
 	c.setColor (Color.white);
-	c.drawString ("Instrustions: Press i", 180, 180);
+	c.drawString ("Instructions: Press i", 180, 180);
 
 	c.setColor (Color.green);
 	c.drawString ("High Scrores: Press h", 180, 230);
